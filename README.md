@@ -11,7 +11,7 @@ Develop a quiz platform where users can attempt quizzes, get instant feedback, a
 - Save quiz history using IndexedDB. 
 ## How to use
 
-- Go to the link [click here](https://www.github.com/ayushdasgupta)
+- Go to the link [click here](https://quizapp-chi-nine.vercel.app/)
 - Type your name 
 - Answer all the questions .
 - Get the result at the end of the quiz 
@@ -21,7 +21,7 @@ Develop a quiz platform where users can attempt quizzes, get instant feedback, a
 
 ## Demo
 
-To watch how its look like [Click here](https://www.github.com/ayushdasgupta)
+To watch how its look like [Click here](https://quizapp-chi-nine.vercel.app/)
 
 
 ## Run Locally
